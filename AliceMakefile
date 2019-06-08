@@ -1,0 +1,6 @@
+JC = javac
+J = java
+CH: CH.class
+	$(J) Alice 5653 5658
+CH.class:
+	$(JC) Alice.java

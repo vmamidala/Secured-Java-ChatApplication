@@ -1,0 +1,6 @@
+JC = javac
+J = java
+Bob: Bob.class
+	$(J) Bob 5653 5659
+Bob.class:
+	$(JC) Bob.java

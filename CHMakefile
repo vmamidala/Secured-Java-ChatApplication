@@ -1,0 +1,6 @@
+JC = javac
+J = java
+CH: CH.class
+	$(J) CH 5658 5659
+CH.class:
+	$(JC) CH.java
