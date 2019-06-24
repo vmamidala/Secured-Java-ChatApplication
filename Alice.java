@@ -132,6 +132,7 @@ public class Alice extends Thread {
 	        	   System.out.println("____________________________________________________________________");
 	        	   System.out.println("                  LETS BEGIN CONVERSATION                           ");
 	        	   System.out.println("____________________________________________________________________");
+		           System.out.println("____________________________________________________________________");
                    }	     
         	
         	
